@@ -9,7 +9,7 @@ void main(List<String> arguments) {
 //   print('hello world');
 // }
 
-//Output: on console 'DAKSHAY*/
+//Output: on console 'JAY*/
 
 void main() {
   int i;
