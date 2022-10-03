@@ -9,14 +9,14 @@ void main(List<String> arguments) {
 //   print('hello world');
 // }
 
-//Output: on console 'DAKSHAY*/
+//Output: on console 'JAY*/
 
 void main() {
   int i;
   for (i = 0; i < 5; i++) print("hello ${i + 1}");
 }
 
-//Output:    hello 1
+//Output: hello 1
 // hello 2
 // hello 3
 // hello 4
